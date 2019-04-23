@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">LSBnCBC</string>
+    <string name="lsbncbc_cruptomathods">LSBnCBC cruptomathods</string>
+    <string name="logo">Logo</string>
+    <string name="lsbncbc_cryptomethods">LSBnCBC cryptomethods</string>
+    <string name="remember_pass"><u>Забыли пароль?</u></string>
+    <string name="registration">Регистрация</string>
+    <string name="registrationMain"><u>Регистрация</u></string>
+    <string name="bLogin">Войти</string>
+    <string name="me_memory">Запомнить меня</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="second_name">Фамилия</string>
+    <string name="entered_second_name">Введите Вашу фамилию</string>
+    <string name="entered_name">Введите Ваше имя</string>
+    <string name="name">Имя</string>
+    <string name="patronymic">Отчество</string>
+    <string name="entered_patronymic">Введите Ваше отчество</string>
+    <string name="email">Email</string>
+    <string name="entered_email">Введите эл. адрес</string>
+    <string name="entered_password">Введите пароль</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="forgot_text">To reset password, enter your email, press the button and check mail to follow instruction.</string>
+    <string name="forgot_your_password">Forgot your password?</string>
+    <string name="reset">Reset</string>
+    <string name="back"><u>Back</u></string>
+    <string name="lsb">LSB</string>
+    <string name="delsb">deLSB</string>
+    <string name="cbc">CBC</string>
+    <string name="decbc">deCBC</string>
+    <string name="original_image">Исходное изображение</string>
+    <string name="choose">Выбрать</string>
+    <string name="original_text">Исходный текст</string>
+    <string name="save">Сохранить</string>
+    <string name="your_text">Your text</string>
+    <string name="send">Send</string>
+</resources>

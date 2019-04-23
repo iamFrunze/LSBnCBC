@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="@color/backGround"
+    android:padding="50dp"
+    tools:context="com.example.lsb.ChooseActionActivity">
+
+    <Button
+        android:id="@+id/buttonLSB"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="goToLSB"
+        android:text="@string/lsb"/>
+    <Button
+        android:id="@+id/buttonDeLSB"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/delsb"/>
+    <Button
+        android:id="@+id/buttonCBC"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/cbc"/>
+    <Button
+        android:id="@+id/buttonDeCBC"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/decbc"/>
+
+</LinearLayout>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "839189665365",
+    "firebase_url": "https://lsbncbc.firebaseio.com",
+    "project_id": "lsbncbc",
+    "storage_bucket": "lsbncbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839189665365:android:90b16e12bae46a16",
+        "android_client_info": {
+          "package_name": "com.example.lsbncbc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839189665365-3828nu6evjatijrlptkccv1l37gf2rhb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lsbncbc",
+            "certificate_hash": "c3c94acf077a10032cd8de744e411c32deb5ecc3"
+          }
+        },
+        {
+          "client_id": "839189665365-ofgn3ns7r59lbjfe2j674p4onlea0leh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZXYGCLcR7LcvUunYuKSiDkiCNvEtkETE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839189665365-ofgn3ns7r59lbjfe2j674p4onlea0leh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
